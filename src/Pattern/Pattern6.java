@@ -3,7 +3,7 @@ package Pattern;
 public class Pattern6 {
 
 	public static void main(String[] args) {
-		for(int i=1;i<=4;i++)
+		for(int i=1;i<=3;i++)
 		{
 			for(int j=3;j>=i;j--)
 			{
@@ -15,7 +15,7 @@ public class Pattern6 {
 			}
 			System.out.println(" ");
 		}
-		for(int i=2;i<=4;i++)
+		for(int i=1;i<=4;i++)
 		{
 			for(int j=2;j<=i;j++)
 			{
