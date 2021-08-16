@@ -5,8 +5,10 @@ public class conact {
 	{
 		String a="JAVA";
 		String b="SELENIUM";
-		 b=a.concat(b);
-		 System.out.println(b);
+		 String c=a.concat(b);
+		 System.out.println(c);
+		 //System.out.println(c.split(c, ','));
+		 
 		
 	}
 
