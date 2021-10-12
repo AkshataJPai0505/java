@@ -18,5 +18,6 @@ public class Example1 {
 	public static void main(String args[]) {
 	hawlettpackcard e= new hawlettpackcard();
 	e.disp();
+	System.out.println(" This is main method");
 }
 }

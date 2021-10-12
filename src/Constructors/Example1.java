@@ -3,10 +3,11 @@ package Constructors;
 
 
 public class Example1 {
-	int a;
+	int a=50;
 	Example1(int a){
-		this.a=a;
+		
 		System.out.println("The value of a is "+a);
+		System.out.println("The value of a is "+this.a);
 	}
 
 	public static void main(String[] args) {
